@@ -1,6 +1,6 @@
 function TextareaComponent(props){
     return(
-        <div>
+        <div class='area'>
             <textarea name="outputtext" />
         </div>
     )

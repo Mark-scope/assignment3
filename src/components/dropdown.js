@@ -1,6 +1,6 @@
 function DropdownComponent(props){
     return(
-        <div>            
+        <div class='drop'>            
             <select>
                 <option >--Choose one--</option>
                 <option >dog</option>

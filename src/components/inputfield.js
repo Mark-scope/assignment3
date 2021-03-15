@@ -1,6 +1,6 @@
 function InputfieldComponent(props){
     return(
-        <div>
+        <div class='in'>
             <input type='text' />
         </div>
     )
